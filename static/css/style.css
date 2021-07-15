@@ -1,0 +1,11 @@
+h6 {
+  font-weight: bold;
+  font-size: 10px;
+}
+.jumbotron {
+  color: white;
+  font-weight: bold;
+}
+body {
+  background-color: lightgrey;
+}
